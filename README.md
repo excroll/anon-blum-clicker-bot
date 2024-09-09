@@ -3,5 +3,5 @@ For stable work of scripts, use <b>Python 3.11.0</b><br/>
 <b>Install</b><br/>
 <code>pip install -r requirements.txt</code><br/><br/>
 <b>Run</b><br/>
-<code>py bot.py</code>
+<code>py bot.py</code><br/>
 ![screenshot](https://github.com/excroll/abclicker/blob/main/image.gif)
