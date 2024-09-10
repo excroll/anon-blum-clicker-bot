@@ -5,6 +5,8 @@ For stable work of scripts, use <b>Python 3.11.0</b><br/>
 <b>Run</b><br/>
 <code>py bot.py</code><br/><br/>
 ![screenshot](https://github.com/excroll/abclicker/blob/main/image.gif)
-
+<br/><br/>
+For blum set the size of the <b>emulator</b> window according to these sizes (so that the bot works stably)<br/>
+![screenshot](https://github.com/excroll/anon-blum-clicker-bot/blob/main/img/Blum_Opimal_Frame.png)
 Site of this project:
 https://abclicker.com/
