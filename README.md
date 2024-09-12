@@ -10,9 +10,11 @@ For stable work of scripts, use <b>Python 3.11.0</b><br/>
 
 ![screenshot](https://github.com/excroll/abclicker/blob/main/image.gif)
 <br/><br/>
+<b>ANON SPACE</b><br/>
 <b>Auto-farm</b> of resources ship control hold left mouse button, dodge asteroids<br/>
 ![screenshot](https://github.com/excroll/anon-blum-clicker-bot/blob/main/anon%20space.gif)
 <br/><br/>
+<b>BLUM</b><br/>
 For blum set the size of the <b>emulator</b> window according to these sizes (so that the bot works stably)<br/>
 ![screenshot](https://github.com/excroll/anon-blum-clicker-bot/blob/main/img/Blum_Opimal_Frame.png)
 Site of this project:
