@@ -6,7 +6,7 @@ For stable work of scripts, use <b>Python 3.11.0</b><br/>
 <b>Run</b><br/>
 <code>py bot.py</code><br/>
 <b>Compile EXE</b><br/>
-<code>pyinstaller --onefile --windowed --icon=C:/1Ton/ABClicker/icon.ico bot.py</code><br/><br/>
+<code>pyinstaller --onefile --windowed --icon=C:/ABClicker/icon.ico bot.py</code><br/><br/>
 
 ![screenshot](https://github.com/excroll/abclicker/blob/main/image.gif)
 <br/><br/>
