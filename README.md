@@ -1,5 +1,5 @@
 <b>This bot does not use HTTP requests</b><br/><br/>
-Bot for <b>Anon Space</b>, <b>Blum</b>, <b>Clicker</b> for <b>telegram tap games</b>, AUTO <b>Cipher</b> for <b>Hamster Combat</b><br/>
+Bot for <b>Anon Space</b>, <b>Blum</b>, <b>Clicker</b> for <b>telegram tap games</b>, AUTO <b>Cipher</b> for <b>Hamster Kombat</b><br/>
 For stable work of scripts, use <b>Python 3.11.0</b><br/>
 <b>Install</b><br/>
 <code>pip install -r requirements.txt</code><br/>
