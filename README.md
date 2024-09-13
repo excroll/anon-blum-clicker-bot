@@ -2,6 +2,7 @@
 Bot for <b>Anon Space</b>, <b>Blum</b>, <b>Clicker</b> for <b>telegram tap games</b>, AUTO <b>Cipher</b> for <b>Hamster Kombat</b><br/>
 For stable work of scripts, use <b>Python 3.11.0</b><br/>
 - If<i> <b>file.ini</b> turns out to be empty after session, copy the data from <b>save.ini</b></i><br/>
+
 <b>Install</b><br/>
 <code>pip install -r requirements.txt</code><br/>
 <b>Run</b><br/>
