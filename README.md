@@ -19,5 +19,10 @@ For stable work of scripts, use <b>Python 3.11.0</b><br/>
 <b>BLUM</b><br/>
 For blum set the size of the <b>emulator</b> window according to these sizes (so that the bot works stably)<br/>
 ![screenshot](https://github.com/excroll/anon-blum-clicker-bot/blob/main/img/Blum_Opimal_Frame.png)
+
 Site of this project:
 https://abclicker.com/
+
+Help the project any donation<br/>
+TON Wallet:<br/>
+<b>UQBKm1osfi6A721M_iGjB9sMz-Far0vv4e8i5HXC2HXUFI2n</b>
