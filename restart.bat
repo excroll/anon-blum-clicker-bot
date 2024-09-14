@@ -1,4 +1,4 @@
 @echo off
-taskkill /F /IM allBOT18.exe
-start allBOT18.exe
+taskkill /F /IM bot.exe
+start bot.exe
 exit
